@@ -284,3 +284,61 @@ Clasifica cada funcionalidad como Obligatoria, Importante, Opcional o Fuera del 
 ```text
 
 ```
+
+# Conocimientos sobre Microsoft 365 y Copilot
+
+Como parte de la prueba técnica, responde las siguientes preguntas relacionadas con Microsoft 365, Copilot Studio y el desarrollo de aplicaciones basadas en agentes.
+
+---
+
+## 1. Microsoft 365 y Copilot
+
+### ¿Qué es Microsoft 365 y qué recursos interoperan con Copilot?
+
+### Respuesta
+
+```text
+
+
+```
+
+---
+
+## 2. Copilot Studio
+
+### ¿Qué es Copilot Studio y qué ofrece?
+
+### Respuesta
+
+```text
+
+
+```
+
+---
+
+## 3. Aplicaciones basadas en agentes
+
+### ¿Qué mejores prácticas consideras para implementar, comprobar y evaluar aplicaciones con agentes?
+
+### Respuesta
+
+```text
+
+
+```
+
+---
+
+## 4. Caso práctico: aplicación de inventario
+
+> **Esta pregunta tiene un peso especial dentro de la evaluación.**
+
+### Describa un caso de uso e implementación para una aplicación de inventario con información en varios archivos bajo el ambiente Microsoft 365 y Copilot.
+
+### Respuesta
+
+```text
+
+
+```
